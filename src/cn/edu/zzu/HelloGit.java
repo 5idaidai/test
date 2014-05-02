@@ -1,5 +1,5 @@
 package cn.edu.zzu;
-//test
+//test lab eclipse
 public class HelloGit {
 
 	public void main(String[] args){
